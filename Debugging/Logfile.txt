@@ -1,0 +1,17 @@
+﻿2022-04-21 18:31:31.088 DEBUG [19568] [main@19] main() called
+2022-04-21 18:31:31.090 DEBUG [19568] [getUserInput@7] getUserInput() called
+2022-04-21 18:38:34.179 DEBUG [7632] [main@20] main() called
+2022-04-21 18:38:34.908 DEBUG [7632] [getUserInput@7] getUserInput() called
+2022-04-21 18:41:31.871 DEBUG [18996] [main@20] main() called
+2022-04-21 18:44:11.790 DEBUG [1536] [main@20] main() called
+2022-04-21 18:44:11.791 DEBUG [1536] [getUserInput@7] getUserInput() called
+2022-04-21 18:45:39.636 DEBUG [18884] [main@20] main() called
+2022-04-21 18:45:49.072 DEBUG [18884] [getUserInput@7] getUserInput() called
+2022-04-21 18:48:45.883 DEBUG [16504] [main@22] main() called
+2022-04-21 18:48:57.747 DEBUG [16504] [getUserInput@7] getUserInput() called
+2022-04-21 18:50:45.080 DEBUG [17152] [main@22] main() called
+2022-04-21 18:50:45.080 DEBUG [17152] [getUserInput@7] getUserInput() called
+2022-04-21 18:51:22.303 DEBUG [17152] [main@22] main() called
+2022-04-21 18:51:33.097 DEBUG [17152] [getUserInput@7] getUserInput() called
+2022-04-21 18:56:19.865 DEBUG [9540] [main@22] main() called
+2022-04-21 18:56:19.865 DEBUG [9540] [getUserInput@7] getUserInput() called
