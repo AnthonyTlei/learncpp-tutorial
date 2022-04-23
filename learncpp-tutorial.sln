@@ -43,6 +43,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-8", "Chapter-8", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Type Conversion and Function Overloading", "Type Conversion and Function Overloading\Type Conversion and Function Overloading.vcxproj", "{E04414CC-0733-491E-A886-53C9439748D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-9", "Chapter-9", "{F13DAFDF-B3F5-4B7B-835C-4EA277E0F0B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Compound Types References and Pointers", "Compound Types References and Pointers\Compound Types References and Pointers.vcxproj", "{343BD5D6-EE14-4460-BD1E-3000801F1805}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +135,14 @@ Global
 		{E04414CC-0733-491E-A886-53C9439748D1}.Release|x64.Build.0 = Release|x64
 		{E04414CC-0733-491E-A886-53C9439748D1}.Release|x86.ActiveCfg = Release|Win32
 		{E04414CC-0733-491E-A886-53C9439748D1}.Release|x86.Build.0 = Release|Win32
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Debug|x64.ActiveCfg = Debug|x64
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Debug|x64.Build.0 = Debug|x64
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Debug|x86.ActiveCfg = Debug|Win32
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Debug|x86.Build.0 = Debug|Win32
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Release|x64.ActiveCfg = Release|x64
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Release|x64.Build.0 = Release|x64
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Release|x86.ActiveCfg = Release|Win32
+		{343BD5D6-EE14-4460-BD1E-3000801F1805}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +158,7 @@ Global
 		{D9D7179A-F9DC-4595-9C15-00E700A1C2F4} = {52986465-EDF0-4ED5-90B4-BA58D20F7289}
 		{5E48C61B-0F67-4D84-BB0E-CAAB3C91886E} = {57001A98-42AB-45C8-B272-801847AF70AD}
 		{E04414CC-0733-491E-A886-53C9439748D1} = {67D1827E-E59D-4949-BE75-092DD29E7E49}
+		{343BD5D6-EE14-4460-BD1E-3000801F1805} = {F13DAFDF-B3F5-4B7B-835C-4EA277E0F0B5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D739A569-4655-4DFC-9CD6-4A466130E738}
