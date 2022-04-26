@@ -15,7 +15,7 @@ namespace MyAlgorithms
 	int sumDigits(int x);
 	void printBinary(unsigned int x);
 	int iterativeBinarySearch(const int* array, int target, int min, int max);
-	int MyAlgorithms::recursiveBinarySearch(const int* array, int target, int min, int max);
+	int recursiveBinarySearch(const int* array, int target, int min, int max);
 }
 
 #endif
